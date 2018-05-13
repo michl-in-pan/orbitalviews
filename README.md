@@ -1,6 +1,6 @@
 Easy Satellite API in order to do some analytics or work with satellite data. Get beautiful images for a location and date.
 
-![alt text](img/usa.png "Description goes here")
+![alt text](img/usa.png "Description goes here"){:height="50%" width="50%"}
 
 In order to work with the API, you need an API key. Please sign up (https://orbital-views.appspot.com) 
 and check your key in your Profile. The API Key is part of your calls and identifies you.
