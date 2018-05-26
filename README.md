@@ -2,7 +2,7 @@ Easy Satellite API in order to do some analytics or work with satellite data. Ge
 
 ![alt text](img/pivot.png "Description goes here")
 
-In order to work with the API, you need an API key. Please sign up (https://orbital-views.appspot.com) 
+In order to work with the API, you need an API key. Please sign up (https://orbitalviews.eu) 
 and check your key in your Profile. The API Key is part of your calls and identifies you.
  
 HowTo:
@@ -11,7 +11,7 @@ Please clone or download the repository and use the following syntax:
 client.py [-h] host api_key lat lng
 
 Example:
-python client.py https://orbital-views.appspot.com 321ce90e2a2ee2e7c9ef7ffb2 42 11
+python client.py https://api.orbitalviews.eu/ 321ce90e2a2ee2e7c9ef7ffb2 42 11
 
 API:
 ======
