@@ -2,7 +2,7 @@ Easy Satellite API in order to do some analytics or work with satellite data. Ge
 
 ![alt text](img/pivot.png "Description goes here")
 
-<p align="center"> "Please note: OrbitalViews and API are offline!" </p>
+<p align="center"> "Please note: OrbitalViews and API were taken offline!" </p>
 
  
 HowTo:
