@@ -2,8 +2,8 @@ Easy Satellite API in order to do some analytics or work with satellite data. Ge
 
 ![alt text](img/pivot.png "Description goes here")
 
-In order to work with the API, you need an API key. Please sign up (https://orbitalviews.eu) 
-and check your key in your Profile. The API Key is part of your calls and identifies you.
+<p align="center"> "Please note: OrbitalViews and API are offline!" </p>
+
  
 HowTo:
 ======
